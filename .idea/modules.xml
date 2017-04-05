@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic3_Event_Anamition_Fragment.iml" filepath="$PROJECT_DIR$/Basic3_Event_Anamition_Fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallBack/CallBack.iml" filepath="$PROJECT_DIR$/CallBack/CallBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog/alertdialog.iml" filepath="$PROJECT_DIR$/alertdialog/alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog_progress/alertdialog_progress.iml" filepath="$PROJECT_DIR$/alertdialog_progress/alertdialog_progress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation/animation.iml" filepath="$PROJECT_DIR$/animation/animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationslide/animationslide.iml" filepath="$PROJECT_DIR$/animationslide/animationslide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/changedirection/changedirection.iml" filepath="$PROJECT_DIR$/changedirection/changedirection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventlistner/eventlistner.iml" filepath="$PROJECT_DIR$/eventlistner/eventlistner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/focus/focus.iml" filepath="$PROJECT_DIR$/focus/focus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keyevent/keyevent.iml" filepath="$PROJECT_DIR$/keyevent/keyevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listen/listen.iml" filepath="$PROJECT_DIR$/listen/listen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbar/seekbar.iml" filepath="$PROJECT_DIR$/seekbar/seekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toast/toast.iml" filepath="$PROJECT_DIR$/toast/toast.iml" />
+    </modules>
+  </component>
+</project>

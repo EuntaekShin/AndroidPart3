@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CallBack" />
+            <option value="$PROJECT_DIR$/alertdialog" />
+            <option value="$PROJECT_DIR$/alertdialog_progress" />
+            <option value="$PROJECT_DIR$/animation" />
+            <option value="$PROJECT_DIR$/animationslide" />
+            <option value="$PROJECT_DIR$/changedirection" />
+            <option value="$PROJECT_DIR$/eventlistner" />
+            <option value="$PROJECT_DIR$/focus" />
+            <option value="$PROJECT_DIR$/keyevent" />
+            <option value="$PROJECT_DIR$/listen" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/toast" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

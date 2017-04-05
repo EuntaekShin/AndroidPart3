@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.seekbar.Main2Activity">
+
+    <Button
+    android:id="@+id/btnshow"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="디스플레이조절"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/seekview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:gravity="center_horizontal"
+        android:visibility="gone">
+        <SeekBar
+            android:id="@+id/seekBar01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:progress="100"
+            android:max="100"/>
+        <TextView
+            android:id="@+id/tvt01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:text="현재 밝기 :"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
